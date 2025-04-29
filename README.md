@@ -1,11 +1,11 @@
 # ICS344Project
 The project of the course ICS344 (Infomation Security) in KFUPM.
 
-#Group Number: 7
+# Group Number: 7
 
-#Work Distribution:
+# Work Distribution:
 
-#Students Information:
+# Students Information:
 
 
 Abdulaziz Alfaraj, 202185070 
