@@ -7,6 +7,6 @@ Work Distribution:
 
 
 Students Information:
-Abdulaziz Alfaraj, 202185070
+Abdulaziz Alfaraj, 202185070  
 Sajjad Arafat, 202175170
 Mohammed Cadura, 201916710
