@@ -3,6 +3,10 @@ The project of the course ICS344 (Infomation Security) in KFUPM.
 
 # Group Number: 7
 
+
+Section 2
+
+
 # Work Distribution:
 
 # Students Information:
