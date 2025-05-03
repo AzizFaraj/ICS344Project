@@ -29,7 +29,7 @@ We start Splunk for the first time
 
 ## Starting Splunk Web Interface
 
-We then can access the Splunk web interface by running **localhost:8000**
+We then can access the Splunk web interface by running **127.0.0.1:8000**
 
 <img src="https://github.com/user-attachments/assets/b4dc1b3f-a3d0-4b24-851b-b9bcb47ea8b3" alt="Alt Text" style="width:50%; height:auto;">
 
