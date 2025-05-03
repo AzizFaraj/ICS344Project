@@ -1,5 +1,5 @@
 # ICS344Project
-The project of the course ICS344 (Infomation Security) in KFUPM.
+The project of the course ICS344 (Infomation Security) for Term 242 in KFUPM. The project is to attack a Metasploitable 3 virtual machine using a Kali Linux virtual machine by exploiting a specific vulnerable service, visualize the attack and logs, then propose a defense mechanism to prevent compromising from attackers. 
 
 # Group Number: 7
 
