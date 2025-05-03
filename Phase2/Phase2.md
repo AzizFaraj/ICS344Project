@@ -87,7 +87,7 @@ Here is a visualization of the attacks that shows the number of failed passwords
 
 ## Logs from Both Enviornments 
 
-Below are screenshots of the logs from both the attacker and victim enviornments, the first one is for the attacker and the second is for the victim
+Below are screenshots of the logs from both the attacker and victim enviornments, the first one is for the attacker and the second is for the victim:
 
 <img src="https://github.com/user-attachments/assets/4bf1cf58-a003-4993-baef-49525b4a4941" alt="Alt Text" style="width:50%; height:auto;">
 <img src="https://github.com/user-attachments/assets/d37f386a-1415-4042-85db-e404115806b6" alt="Alt Text" style="width:50%; height:auto;">
