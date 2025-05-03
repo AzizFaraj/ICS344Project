@@ -14,6 +14,10 @@ After logging in into the Metasploitable 3 we find the IP address of the victim 
 
 ![image](https://github.com/user-attachments/assets/d7837404-e210-4563-a554-0aefd716fd8a)
 
+---
+
+## Checking Connectivity
+
 We check the reachability by  pinging the victim machine in Kali Linux.
 
 <img src="https://github.com/user-attachments/assets/cabc2528-c2df-417b-a471-2d6f60a8c9b4" alt="Alt Text" style="width:50%; height:auto;">
@@ -22,15 +26,25 @@ Note that the IP of the attacker machine, which is the Kali Linux, is **10.0.2.1
 
 # Compromising the Victim Machine
 
+## Vulnerable Service: SSH
+
 The vulnerable service we choose is SSH, where we brute force guessing passwords using the exploit (auxiliary/scanner/ssh/ssh_login)
 
 <img src="https://github.com/user-attachments/assets/b76c88ec-467e-4ee5-b4cc-3772e3634fe1" alt="Alt Text" style="width:50%; height:auto;">
 
 The USER_FILE and PASS_FILE files are provided in the repository.
 
+---
+
+## Automating the Attack: Making the Script
+
 We automate this process by making a Python script as such:
 
 <img src="https://github.com/user-attachments/assets/5eaf9d01-0177-48e0-a829-d91ead5e468b" alt="Alt Text" style="width:50%; height:auto;">
+
+---
+
+## Executing the Script
 
 Then we execute the script to compromise the victim machine:
 
@@ -38,7 +52,7 @@ Then we execute the script to compromise the victim machine:
 
 The script (ssh_brute_force.py) file is provided in the repository.
 
-The victim machine is compromised now by executing the script.
+The victim machine is also compromised now by executing the script.
 
 
 
