@@ -12,6 +12,8 @@ Now after trying to attack and failing for the fourth time, the attacker's IP is
 
 <img src="https://github.com/user-attachments/assets/78a3d219-6bf5-4d4c-8b6c-dc98623ebd92" alt="Alt Text" style="width:50%; height:auto;">
 
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
+After this process, we can see the banned IP by writing sudo **"fail2ban-client status ssh"** in the Metasploitable 3 VM
 
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/7e6059e2-7bee-4ac7-8452-cc7faa8a85bb" alt="Alt Text" style="width:50%; height:auto;">
+
+Which proves that the Fail2Ban security tool works to counter the SSH exploit.
