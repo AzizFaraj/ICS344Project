@@ -34,15 +34,16 @@ After that, we connect the forwarder to Splunk server
 
 <img src="https://github.com/user-attachments/assets/edb74538-656a-4a77-9ef5-070178608340" alt="Alt Text" style="width:50%; height:auto;">
 
+We add the data inputs as such
+
+<img src="https://github.com/user-attachments/assets/e866c475-ed3b-4ad2-9c24-adec896cdaae" alt="Alt Text" style="width:50%; height:auto;">
+
+After executing the attack, the logs will be shown in Splunk with the "Failed password" and "Accepted password" 
+
+<img src="https://github.com/user-attachments/assets/2c6bfe8d-251c-4770-946d-48a96dd801dd" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/c299368c-139f-48bb-9316-54b0f0ba41aa" alt="Alt Text" style="width:50%; height:auto;">
 
 
-
-
-
-
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
