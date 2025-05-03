@@ -24,7 +24,6 @@ Note that the IP of the attacker machine, which is the Kali Linux, is **10.0.2.1
 
 The vulnerable service we choose is SSH, where we brute force guessing passwords using the exploit (auxiliary/scanner/ssh/ssh_login)
 
-![image](https://github.com/user-attachments/assets/5531f512-877d-4b01-8515-fb2fe6d43881)
-
+![image](https://github.com/user-attachments/assets/b76c88ec-467e-4ee5-b4cc-3772e3634fe1)
 
 The USER_FILE and PASS_FILE files are provided in the repository.
