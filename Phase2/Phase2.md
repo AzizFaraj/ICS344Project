@@ -84,10 +84,3 @@ Here is a visualization of the attacks that shows the number of failed passwords
 <img src="https://github.com/user-attachments/assets/a62b857d-2177-4d6b-83ed-09f79177532e" alt="Alt Text" style="width:50%; height:auto;">
 
 
-
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-
-
