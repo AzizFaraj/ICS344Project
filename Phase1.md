@@ -16,7 +16,7 @@ After logging in into the Metasploitable 3 we find the IP address of the victim 
 
 We check the reachability by  pinging the victim machine in Kali Linux.
 
-![image](https://github.com/user-attachments/assets/42ae41a4-ae02-47d0-98fd-69d4b08d8b3a)
+![image](https://github.com/user-attachments/assets/cabc2528-c2df-417b-a471-2d6f60a8c9b4)
 
 Note that the IP of the attacker machine, which is the Kali Linux, is **10.0.2.15**.
 
