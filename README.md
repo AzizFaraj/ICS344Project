@@ -9,6 +9,14 @@ Section 2
 
 # Work Distribution:
 
+Abdulaziz Alfaraj: Phase 1, Phase 2, and Documentation
+
+Sajjad Arafat: Phase 1 and Phase 3
+
+Mohammed Cadura: Phase 1 and Phase 2
+
+
+
 # Students Information:
 
 
