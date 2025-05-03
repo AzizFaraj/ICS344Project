@@ -30,10 +30,23 @@ We then start Splunk Forwarder and accepting the license
 <img src="https://github.com/user-attachments/assets/0b2a3341-2883-45ff-97ab-76d509f4e6e8" alt="Alt Text" style="width:50%; height:auto;">
 <img src="https://github.com/user-attachments/assets/0f219a6f-85dc-4071-b2f3-aba029a480e1" alt="Alt Text" style="width:50%; height:auto;">
 
+After that, we connect the forwarder to Splunk server
+
+<img src="https://github.com/user-attachments/assets/edb74538-656a-4a77-9ef5-070178608340" alt="Alt Text" style="width:50%; height:auto;">
+
+
+
+
+
+
 
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
-
-
+<img src="" alt="Alt Text" style="width:50%; height:auto;">
+<img src="" alt="Alt Text" style="width:50%; height:auto;">
+<img src="" alt="Alt Text" style="width:50%; height:auto;">
+<img src="" alt="Alt Text" style="width:50%; height:auto;">
+<img src="" alt="Alt Text" style="width:50%; height:auto;">
+<img src="" alt="Alt Text" style="width:50%; height:auto;">
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
 
 
