@@ -20,3 +20,11 @@ We check the reachability by  pinging the victim machine in Kali Linux.
 
 Note that the IP of the attacker machine, which is the Kali Linux, is **10.0.2.15**.
 
+# Compromising the Victim Machine
+
+The vulnerable service we choose is SSH, where we brute force guessing passwords using the exploit (auxiliary/scanner/ssh/ssh_login)
+
+![image](https://github.com/user-attachments/assets/5531f512-877d-4b01-8515-fb2fe6d43881)
+
+
+The USER_FILE and PASS_FILE files are provided in the repository.
