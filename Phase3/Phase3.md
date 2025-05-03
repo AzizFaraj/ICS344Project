@@ -16,11 +16,15 @@ We then configure Fail2Ban and add "bantime =600" and "maxretry =3" as such
 
 ---
 
+## Executing the Attack Again
+
 Now after trying to attack and failing for the fourth time, the attacker's IP is banned for 600 seconds
 
 <img src="https://github.com/user-attachments/assets/78a3d219-6bf5-4d4c-8b6c-dc98623ebd92" alt="Alt Text" style="width:50%; height:auto;">
 
 ---
+
+## Proof of Concept
 
 After this process, we can see the banned IP by writing sudo **"fail2ban-client status ssh"** in the Metasploitable 3 VM
 
