@@ -43,8 +43,12 @@ After executing the attack, the logs will be shown in Splunk with the "Failed pa
 <img src="https://github.com/user-attachments/assets/2c6bfe8d-251c-4770-946d-48a96dd801dd" alt="Alt Text" style="width:50%; height:auto;">
 <img src="https://github.com/user-attachments/assets/c299368c-139f-48bb-9316-54b0f0ba41aa" alt="Alt Text" style="width:50%; height:auto;">
 
+Here is a visualization of the attacks that shows the number of failed passwords and the number of accepted passwords
 
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/a62b857d-2177-4d6b-83ed-09f79177532e" alt="Alt Text" style="width:50%; height:auto;">
+
+
+
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
