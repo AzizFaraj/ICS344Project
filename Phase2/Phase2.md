@@ -15,12 +15,25 @@ We start Splunk for the first time
 <img src="https://github.com/user-attachments/assets/89aa6ff9-7ef9-4332-801f-df1ee5641657" alt="Alt Text" style="width:50%; height:auto;">
 <img src="https://github.com/user-attachments/assets/46d5d22a-67e6-4a90-aea3-cc0f17b89e0b" alt="Alt Text" style="width:50%; height:auto;">
 
+We then can access the Splunk web interface by running **localhost:8000**
+
+<img src="https://github.com/user-attachments/assets/b4dc1b3f-a3d0-4b24-851b-b9bcb47ea8b3" alt="Alt Text" style="width:50%; height:auto;">
+
+# Installing Splunk Forwarder 
+
+This will be done in the victim machine as shown below
+
+<img src="https://github.com/user-attachments/assets/eb47eb00-8b02-4294-aced-97ce64119f2b" alt="Alt Text" style="width:50%; height:auto;">
+
+We then start Splunk Forwarder and accepting the license
+
+<img src="https://github.com/user-attachments/assets/0b2a3341-2883-45ff-97ab-76d509f4e6e8" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/0f219a6f-85dc-4071-b2f3-aba029a480e1" alt="Alt Text" style="width:50%; height:auto;">
+
 
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
-<img src="" alt="Alt Text" style="width:50%; height:auto;">
+
+
 <img src="" alt="Alt Text" style="width:50%; height:auto;">
 
 
