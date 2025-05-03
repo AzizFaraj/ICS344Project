@@ -27,3 +27,15 @@ The vulnerable service we choose is SSH, where we brute force guessing passwords
 ![image](https://github.com/user-attachments/assets/b76c88ec-467e-4ee5-b4cc-3772e3634fe1)
 
 The USER_FILE and PASS_FILE files are provided in the repository.
+
+We automate this process by making a Python script as such:
+
+![image](https://github.com/user-attachments/assets/5eaf9d01-0177-48e0-a829-d91ead5e468b)
+
+Then we execute the script to compromise the victim machine.
+
+
+
+
+
+
