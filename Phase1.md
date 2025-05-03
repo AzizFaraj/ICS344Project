@@ -38,6 +38,8 @@ Then we execute the script to compromise the victim machine:
 
 The script (ssh_brute_force.py) file is provided in the repository.
 
+The victim machine is compromised now by executing the script.
+
 
 
 
