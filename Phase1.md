@@ -38,7 +38,7 @@ Then we execute the script to compromise the victim machine:
 
 The script (ssh_brute_force.py) file is provided in the repository.
 
-<img src="[image-url](https://github.com/user-attachments/assets/8aabcb7e-3ccd-47b0-9aba-fa4c364331c8)" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/8aabcb7e-3ccd-47b0-9aba-fa4c364331c8" alt="Alt Text" style="width:50%; height:auto;">
 
 
 
