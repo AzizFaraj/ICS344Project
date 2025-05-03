@@ -1,5 +1,7 @@
 # Phase 3: Defensive Strategy Proposal
 
+## Installing Fail2Ban
+
 The defense mechnaism we propose is the "Fail2Ban" security tool that prevents guessing passwords and bans users if they brute force exploits such as the SSH exploit we used. Therefore, we install it in the Metasploitable 3 VM.
 
 <img src="https://github.com/user-attachments/assets/09c2c6a4-a05f-42ab-9713-e3f0f8c23e3f" alt="Alt Text" style="width:50%; height:auto;">
