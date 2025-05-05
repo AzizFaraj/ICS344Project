@@ -1,4 +1,4 @@
-# Phase 2: Visual Analysis with a SIEM Dashboard\
+# Phase 2: Visual Analysis with a SIEM Dashboard
 
 # Installing the Splunk Server (SIEM)
 
